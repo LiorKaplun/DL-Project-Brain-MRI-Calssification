@@ -18,6 +18,7 @@ If a DL learning model can be trained to high classification accuracy, a brain M
 In addition to designing a CNN classifier we also used transfer learning on other models and analysed their performance on the data. 
 This gives a perspective of which models perform better on this task with respect to training times, accuracy and memory. 
 
+![image](https://github.com/user-attachments/assets/bb13e16b-1c78-463d-af7d-b56005378244)
 
 
 ## Prerequisites
