@@ -2,7 +2,6 @@
 Implementation of a CNN classifier of brain MRI images to Alzheimer's severities and comparisom to transfer leaning (using multiple models)
 
 
-- [pytorch-ls-dqn](#pytorch-ls-dqn)
   * [Background](#background)
   * [Prerequisites](#prerequisites)
   * [Files in the repository](#files-in-the-repository)
