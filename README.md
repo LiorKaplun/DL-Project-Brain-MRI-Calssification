@@ -2,20 +2,10 @@
 Implementation of a CNN classifier of brain MRI images to Alzheimer's severities and comparisom to transfer leaning (using multiple models)
 
 
-
-
-[LS-DDPG](https://github.com/taldatech/pytorch-ls-ddpg) - https://github.com/taldatech/pytorch-ls-ddpg
-
 - [pytorch-ls-dqn](#pytorch-ls-dqn)
   * [Background](#background)
   * [Prerequisites](#prerequisites)
   * [Files in the repository](#files-in-the-repository)
-  * [API (`ls_dqn_main.py --help`)](#api---ls-dqn-mainpy---help--)
-  * [Playing](#playing)
-  * [Training](#training)
-  * [Playing Atari on Windows](#playing-atari-on-windows)
-  * [TensorBoard](#tensorboard)
-  * [References](#references)
 
 ## Background
 Alzheimer's disease is a brain disorder that slowly destroys memory and thinking skills, and eventually, the ability to carry out the simplest tasks. 
