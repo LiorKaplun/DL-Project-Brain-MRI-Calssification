@@ -53,6 +53,7 @@ This gives a perspective of which models perform better on this task with respec
 |`Results`| This directory contains multiple directories, one for each model. Each model directory contains images of training graphs and confusion matrix|
 |`Trained_models`| This directory contains .pth files, one for each model. These are the saved states of the models trained in this project|
 
+///////////////////////TODO upload models weights
 ## Dataset
 [dataset](https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented)
 Contains 44,000 brain MRI images categorized into 4 distinct classes
@@ -77,8 +78,9 @@ We divide the dataset to
 |`ResNet-50 with DoRA`   |`89.95`    |`1117`          |`99.13`       |
 |`EfficientNet`          |`15.47`    |`1578`          |`99.04`       |
 |`EfficientNet woth DoRA`|`15.49`    |`1132`          |`98.92`       |
-|`Vision Transformer`    |`327.31`   |`6798`          |`98.48`       |
+|`Vision Transformer`    |`327.31`   |`10136`         |`98.91`       |
 
+//////////////////////TODO update after VIT done
 ![image](https://github.com/user-attachments/assets/c0718ffe-4b23-489e-baf9-4ebd0b2c60c3)
 
 ## References
