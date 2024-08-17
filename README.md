@@ -54,7 +54,7 @@ This gives a perspective of which models perform better on this task with respec
 |`Trained_models`| This directory contains .pth files, one for each model. These are the saved states of the models trained in this project|
 
 ## Dataset
-dataset(https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented)
+[dataset](https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented)
 Contains 44,000 brain MRI images categorized into 4 distinct classes
 
 The dataset is augmented
@@ -70,14 +70,24 @@ We divide the dataset to
 ![image](https://github.com/user-attachments/assets/854d7e83-5989-44ca-bf16-b6740dfd8cc0)
 
 ## Results
+|model         | size [MB] | Train Time [s] | Accuracy [%] |
+|----------------------|----|----|
+|AltzCNN (Ours)|22.93|6553|95.86
+|ResNet-50|89.91|1136|99.03|
+|ResNet-50 with DoRA|89.95|1117|99.13
+|EfficientNet|15.47|1578|99.04|
+|EfficientNet woth DoRA|15.49|1132|98.92|
+|Vision Transformer|327.31|6798|98.48|
+
+![image](https://github.com/user-attachments/assets/c0718ffe-4b23-489e-baf9-4ebd0b2c60c3)
 
 ## References
-Vision Transformers
-CNN for image classification
-ResNet
-EfficientNet
-DoRA
-Dataset
-Previous work
+[Vision Transformers](https://arxiv.org/abs/2010.11929v2)
+[CNN for image classification](https://ieeexplore.ieee.org/document/8379889)
+[ResNet](https://arxiv.org/abs/1512.03385)
+[EfficientNet](https://arxiv.org/abs/1905.11946)
+[DoRA](https://arxiv.org/abs/2402.09353)
+[Dataset](https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented)
+[Previous work](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2/code)
 
 
