@@ -7,6 +7,8 @@ Implementation of a CNN classifier of brain MRI images to Alzheimer's severities
   * [Files in the repository](#files-in-the-repository)
   * [Dataset](#dataset)
   * [AltzCNN - Our CNN Archtiecture](#altzCNN---our-cnn-archtiecture)
+  * [Results](#results)
+  * [References](#references)
 
 ## Background
 Alzheimer's disease is a brain disorder that slowly destroys memory and thinking skills, and eventually, the ability to carry out the simplest tasks. 
@@ -52,6 +54,7 @@ This gives a perspective of which models perform better on this task with respec
 |`Trained_models`| This directory contains .pth files, one for each model. These are the saved states of the models trained in this project|
 
 ## Dataset
+dataset(https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented)
 Contains 44,000 brain MRI images categorized into 4 distinct classes
 
 The dataset is augmented
@@ -69,5 +72,12 @@ We divide the dataset to
 ## Results
 
 ## References
+Vision Transformers
+CNN for image classification
+ResNet
+EfficientNet
+DoRA
+Dataset
+Previous work
 
 
