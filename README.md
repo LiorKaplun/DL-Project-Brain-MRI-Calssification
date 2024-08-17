@@ -80,8 +80,9 @@ We divide the dataset to
 |`EfficientNet woth DoRA`|`15.49`    |`1132`          |`98.92`       |
 |`Vision Transformer`    |`327.31`   |`10136`         |`98.91`       |
 
-//////////////////////TODO update after VIT done
-![image](https://github.com/user-attachments/assets/c0718ffe-4b23-489e-baf9-4ebd0b2c60c3)
+
+![image](https://github.com/user-attachments/assets/9ec80d86-f7f0-4c4c-a02a-fc78b8171fe6)
+
 
 ## References
 * [Vision Transformers](https://arxiv.org/abs/2010.11929v2)
