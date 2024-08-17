@@ -34,5 +34,6 @@ This gives a perspective of which models perform better on this task with respec
 |`TBD.ipynb`| The project's notebook, contains all models, training, graphs
 
 
+![image](https://github.com/user-attachments/assets/854d7e83-5989-44ca-bf16-b6740dfd8cc0)
 
 
