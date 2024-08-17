@@ -65,7 +65,6 @@ We divide the dataset to
 15% validation
 15% test
 
-////////////////////TODO add exapmles
 
 ## AltzCNN - Our CNN Archtiecture
 ![image](https://github.com/user-attachments/assets/854d7e83-5989-44ca-bf16-b6740dfd8cc0)
