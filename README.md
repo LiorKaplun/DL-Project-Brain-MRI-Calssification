@@ -82,12 +82,10 @@ We divide the dataset to
 ![image](https://github.com/user-attachments/assets/c0718ffe-4b23-489e-baf9-4ebd0b2c60c3)
 
 ## References
-[Vision Transformers](https://arxiv.org/abs/2010.11929v2)
-[CNN for image classification](https://ieeexplore.ieee.org/document/8379889)
-[ResNet](https://arxiv.org/abs/1512.03385)
-[EfficientNet](https://arxiv.org/abs/1905.11946)
-[DoRA](https://arxiv.org/abs/2402.09353)
-[Dataset](https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented)
-[Previous work](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2/code)
-
-
+* [Vision Transformers](https://arxiv.org/abs/2010.11929v2)
+* [CNN for image classification](https://ieeexplore.ieee.org/document/8379889)
+* [ResNet](https://arxiv.org/abs/1512.03385)
+* [EfficientNet](https://arxiv.org/abs/1905.11946)
+* [DoRA](https://arxiv.org/abs/2402.09353)
+* [Dataset](https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented)
+* [Previous work](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2/code)
