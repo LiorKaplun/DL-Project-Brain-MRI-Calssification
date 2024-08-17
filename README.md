@@ -72,12 +72,12 @@ We divide the dataset to
 ## Results
 |model         | size [MB] | Train Time [s] | Accuracy [%] |
 |----------------------|----|----|
-|AltzCNN (Ours)|22.93|6553|95.86|
-|ResNet-50|89.91|1136|99.03|
-|ResNet-50 with DoRA|89.95|1117|99.13|
-|EfficientNet|15.47|1578|99.04|
-|EfficientNet woth DoRA|15.49|1132|98.92|
-|Vision Transformer|327.31|6798|98.48|
+|`AltzCNN (Ours)`|`22.93`|`6553`|`95.86`|
+|`ResNet-50`|`89.91`|`1136`|`99.03`|
+|`ResNet-50 with DoRA`|`89.95`|`1117`|`99.13`|
+|`EfficientNet`|`15.47`|`1578`|`99.04`|
+|`EfficientNet woth DoRA`|`15.49`|`1132`|`98.92`|
+|`Vision Transformer`|`327.31`|`6798`|`98.48`|
 
 ![image](https://github.com/user-attachments/assets/c0718ffe-4b23-489e-baf9-4ebd0b2c60c3)
 
