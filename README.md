@@ -51,7 +51,6 @@ This gives a perspective of which models perform better on this task with respec
 |----------------------|------|
 |`Brain_MRI_Altz_classification.ipynb`| The project's notebook, contains all models, training, graphs|
 |`Results`| This directory contains multiple directories, one for each model. Each model directory contains images of training graphs and confusion matrix|
-|`Trained_models`| This directory contains .pth files, one for each model. These are the saved states of the models trained in this project|
 
 ///////////////////////TODO upload models weights
 ## Dataset
