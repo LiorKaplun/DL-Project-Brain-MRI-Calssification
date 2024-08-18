@@ -68,6 +68,9 @@ We divide the dataset to
 ## AltzCNN - Our CNN Archtiecture
 ![image](https://github.com/user-attachments/assets/854d7e83-5989-44ca-bf16-b6740dfd8cc0)
 
+## Saved Models
+Saved trained models can be found [here](https://drive.google.com/drive/folders/1Zx3zuQ56vP9jFeDkFAoaK-iTWzo-otPx?usp=sharing)
+
 ## Results
 |model                   | size [MB] | Train Time [s] | Accuracy [%] |
 |------------------------|-----------|----------------|--------------|
