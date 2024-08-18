@@ -25,22 +25,16 @@ This gives a perspective of which models perform better on this task with respec
 
 
 ## Prerequisites
-/////////////////////////////TODO update versions
 |Library         | Version |
 |----------------------|----|
 |`Python`|  `3.5.5`|
-|`torch`|  `0.4.1`|
-|`torchvision`|  `0.4.1`|
-|`kronia`|  `0.4.1`|
-|`numpy`|  `0.4.1`|
-|`matplotlib`|  `0.4.1`|
-|`tqdm`|  `0.4.1`|
-|`random`|  `0.4.1`|
-|`sklearn`|  `0.4.1`|
-|`seaborn`|  `0.4.1`|
-|`PIL`|  `0.4.1`|
-|`time`|  `0.4.1`|
-|`os`|  `0.4.1`|
+|`torch`|  `2.3.1`|
+|`torchvision`|  `0.18.1`|
+|`kornia`|  `0.7.3`|
+|`numpy`|  `1.26.4`|
+|`matplotlib`|  `3.7.1`|
+|`tqdm`|  `4.66.5`|
+|`seaborn`|  `0.13.1`|
 
 
 
@@ -52,7 +46,6 @@ This gives a perspective of which models perform better on this task with respec
 |`Brain_MRI_Altz_classification.ipynb`| The project's notebook, contains all models, training, graphs|
 |`Results`| This directory contains multiple directories, one for each model. Each model directory contains images of training graphs and confusion matrix|
 
-///////////////////////TODO upload models weights
 ## Dataset
 [dataset](https://www.kaggle.com/datasets/aryansinghal10/alzheimers-multiclass-dataset-equal-and-augmented)
 Contains 44,000 brain MRI images categorized into 4 distinct classes
